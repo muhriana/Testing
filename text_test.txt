@@ -1,4 +1,8 @@
 here me Syifa Afifah Fitriani.
+<<<<<<< HEAD
 
 
 Jejak dari syifa cantik takkan terlupakan.
+=======
+akuuuuuu
+>>>>>>> origin/master
